@@ -1,107 +1,121 @@
 <h1 align="center">Jana Mohammed Alshaie</h1>
 
 <p align="center">
-  <b>Industrial &amp; Systems Engineering Student</b><br>
-  Princess Nourah bint Abdulrahman University &nbsp;|&nbsp; Riyadh, Saudi Arabia
+  <b>Industrial &amp; Systems Engineering</b><br>
+  Project Portfolio
 </p>
 
 <p align="center">
-  Cooperative Training Candidate &nbsp;|&nbsp; January 2027
+  <a href="mailto:janaalshaie@gmail.com"><img src="https://img.shields.io/badge/Contact-janaalshaie%40gmail.com-1F3A5F?style=flat-square" alt="Email"></a>
 </p>
 
 <p align="center">
-  <a href="mailto:janaalshaie@gmail.com"><img src="https://img.shields.io/badge/Email-janaalshaie%40gmail.com-1F3A5F?style=flat-square" alt="Email"></a>
+  Supply Chain Optimization &nbsp;|&nbsp; Process Improvement &nbsp;|&nbsp; Experimental Design &nbsp;|&nbsp; Operations Research
 </p>
 
 ---
 
-## Profile
+## Overview
 
-Industrial & Systems Engineering student seeking a cooperative training opportunity to apply analytical and quantitative skills to real-world engineering and operational challenges. Academic project experience spans supply chain network optimization, experimental design, process analysis, and operations research, with a structured approach to problem-solving, process improvement, and data-driven decision-making.
-
----
-
-## Core Competencies
-
-| | | |
-|---|---|---|
-| Supply Chain & Logistics | Process Improvement | Quality Management |
-| Operations Management | Data Analysis | Project Management |
-
----
-
-## Technical Toolkit
-
-| Area | Tools & Methods |
-|---|---|
-| Optimization | Mixed-Integer Linear Programming (MILP), IBM ILOG CPLEX |
-| Data Analysis & Statistics | R, ANOVA, Regression, Machine Learning (Basic) |
-| Simulation | Arena Simulation (Familiar) |
-| Process Improvement & Quality | Process Mapping, Lean Tools, Six Sigma, Root Cause Analysis |
-| Operations Research | Queuing Theory |
-| Software | Microsoft Office |
-
----
-
-## Selected Projects
-
-| Project | Focus | Methods | Outcome |
+| Project | Domain | Methods | Outcome |
 |---|---|---|---|
-| East Africa Bottling | Supply Chain Network Optimization | MILP, IBM ILOG CPLEX | Lowest-cost model solution of USD 46.67 million |
-| UTEC | Industrial Process & Safety Improvement | Process Mapping, Lean Tools, Root Cause Analysis | Proposed improvement plan for efficiency and safety |
-| Drone Manufacturing | Design of Experiments | 2² Factorial Design, R, ANOVA, Regression | Experimental design linking battery capacity and drone weight to flight time |
+| East Africa Bottling | Supply Chain Network Optimization | MILP, IBM ILOG CPLEX | Lowest-cost model solution: **USD 46.67 million** |
+| UTEC | Industrial Process & Safety Improvement | Process Mapping, Lean Tools, Root Cause Analysis | Proposed improvement plan |
+| Drone Manufacturing | Design of Experiments | 2² Factorial Design, R, ANOVA, Regression | Factorial design linking battery capacity and weight to flight time |
 | Hai Cafe | Operations Research | Queuing Theory | Staffing and scheduling recommendations |
 
-### Supply Chain Network Optimization | East Africa Bottling
+---
 
-- Analyzed optimization model outputs (MILP, IBM ILOG CPLEX) and compared network costs to evaluate alternative supply chain configurations.
-- Identified a cost-effective distribution strategy, with a lowest-cost model solution of **USD 46.67 million** under the modeled constraints.
+## 01 &nbsp; Supply Chain Network Optimization
 
-### Industrial Process & Safety Improvement | UTEC
+**East Africa Bottling**
 
-- Applied process mapping, Lean tools, and root cause analysis to identify workflow inefficiencies, sources of waste, and safety concerns.
-- Developed a proposed improvement plan to support more efficient and safer operations.
+![MILP](https://img.shields.io/badge/MILP-1F3A5F?style=flat-square)
+![IBM ILOG CPLEX](https://img.shields.io/badge/IBM%20ILOG%20CPLEX-1F3A5F?style=flat-square)
+![Cost Analysis](https://img.shields.io/badge/Cost%20Analysis-1F3A5F?style=flat-square)
 
-### Design of Experiments | Drone Manufacturing Optimization
+**Overview**
+Analyzed a supply chain network optimization problem for East Africa Bottling, evaluating alternative network configurations to identify a cost-effective distribution strategy under the model's constraints.
 
-- Designed a 2² factorial experiment using battery capacity and drone weight as factors to investigate their effects on flight time.
-- Structured the experiment to examine individual factor effects and their interaction, supporting subsequent statistical analysis (R, ANOVA, regression).
+**My role**
+Analyzed optimization model outputs and compared network costs to support the evaluation of alternative supply chain configurations.
 
-### Operations Research Analysis | Hai Cafe
+**Approach**
+1. Reviewed the supply chain network model and its cost-related outputs.
+2. Compared alternative network configurations based on total modeled costs.
+3. Examined the optimization results to identify the lowest-cost solution under the specified constraints.
 
-- Analyzed customer flow and service bottlenecks using queuing theory and operations research techniques.
-- Developed staffing and scheduling recommendations to improve resource utilization and service flow.
+> **Key result:** a minimum-cost solution of **USD 46.67 million** under the modeled conditions and constraints.
 
 ---
 
-## Education
+## 02 &nbsp; Industrial Process & Safety Improvement
 
-**Bachelor of Science in Industrial & Systems Engineering**
-Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia
-Expected June 2027
+**UTEC**
 
----
+![Process Mapping](https://img.shields.io/badge/Process%20Mapping-1F3A5F?style=flat-square)
+![Lean Tools](https://img.shields.io/badge/Lean%20Tools-1F3A5F?style=flat-square)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-1F3A5F?style=flat-square)
 
-## Certifications & Professional Development
+**Overview**
+Examined an industrial production workflow to identify operational inefficiencies, sources of waste, and safety concerns, with the objective of developing practical improvement recommendations.
 
-- McKinsey.org Forward (In Progress)
-- Google Project Management Certificate, Coursera
-- Six Sigma Green Belt, Coursera
-- Lean Management Certificate, Coursera
-- Al-Raed Program, AlFozan Academy, KFUPM
+**My role**
+Focused on root cause analysis to investigate potential sources of operational problems and support the development of process improvement recommendations.
 
----
+**Approach**
+1. Examined the production workflow to understand the sequence of activities and material flow.
+2. Applied process analysis and Lean tools to investigate inefficiencies and sources of waste.
+3. Used root cause analysis to explore underlying operational issues and inform proposed improvement actions.
 
-## Leadership & Activities
-
-- **Volunteer, Event Operations** | Saudi Expo, Symbios Consulting Group: supported event coordination and operational activities while collaborating with multiple stakeholders in a fast-paced environment.
-- **Graduation Ceremony Speaker:** selected to represent graduating students and deliver a formal speech to a large audience.
+> **Key outcome:** a proposed improvement plan addressing process inefficiencies and safety concerns, aimed at more efficient and safer operations.
 
 ---
 
-## Contact
+## 03 &nbsp; Design of Experiments
 
-Email: [janaalshaie@gmail.com](mailto:janaalshaie@gmail.com)
+**Drone Manufacturing Optimization**
 
-<!-- Add your LinkedIn here, for example: LinkedIn: [linkedin.com/in/your-name](https://linkedin.com/in/your-name) -->
+![R](https://img.shields.io/badge/R-1F3A5F?style=flat-square)
+![2^2 Factorial Design](https://img.shields.io/badge/2%C2%B2%20Factorial%20Design-1F3A5F?style=flat-square)
+![ANOVA](https://img.shields.io/badge/ANOVA-1F3A5F?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-1F3A5F?style=flat-square)
+
+**Overview**
+Investigated the relationship between battery capacity, drone weight, and flight time using experimental design and statistical analysis to support data-driven decision-making in drone manufacturing.
+
+**My role**
+Designed the factorial experiment, defined the study factors, and structured the investigation of their relationship with flight time.
+
+**Approach**
+1. Designed a 2² factorial experiment using battery capacity and drone weight as the study factors.
+2. Structured the experiment to examine individual factor effects and their potential interaction.
+3. Applied an experimental framework to support statistical analysis (R, ANOVA, regression).
+
+> **Key outcome:** a factorial experimental design providing a structured basis for analyzing how battery capacity and drone weight relate to flight time.
+
+---
+
+## 04 &nbsp; Operations Research Analysis
+
+**Hai Cafe**
+
+![Queuing Theory](https://img.shields.io/badge/Queuing%20Theory-1F3A5F?style=flat-square)
+![Operations Research](https://img.shields.io/badge/Operations%20Research-1F3A5F?style=flat-square)
+
+**Overview**
+Analyzed customer flow and service bottlenecks at Hai Cafe using queuing theory and operations research techniques.
+
+**Approach**
+1. Analyzed customer flow and identified service bottlenecks.
+2. Applied queuing theory to evaluate service performance.
+3. Developed staffing and scheduling recommendations.
+
+> **Key outcome:** recommendations to improve resource utilization and service flow.
+
+---
+
+<p align="center">
+  <sub>Princess Nourah bint Abdulrahman University &nbsp;|&nbsp; Industrial &amp; Systems Engineering</sub>
+</p>
 
