@@ -1,71 +1,107 @@
-# 👋 Hi, I'm Jana Alshaie
+<h1 align="center">Jana Mohammed Alshaie</h1>
 
-### Industrial & Systems Engineering Student | Supply Chain Optimization · Process Improvement · Data Analysis
+<p align="center">
+  <b>Industrial &amp; Systems Engineering Student</b><br>
+  Princess Nourah bint Abdulrahman University &nbsp;|&nbsp; Riyadh, Saudi Arabia
+</p>
 
-🎓 Princess Nourah bint Abdulrahman University
-🤝 Cooperative Training Candidate — **January 2027**
+<p align="center">
+  Cooperative Training Candidate &nbsp;|&nbsp; January 2027
+</p>
 
----
-
-## 🛠️ Tools & Methods
-
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![IBM CPLEX](https://img.shields.io/badge/-IBM%20ILOG%20CPLEX-052FAD?logo=ibm&logoColor=white)
-![MILP](https://img.shields.io/badge/-MILP-555555)
-![Lean](https://img.shields.io/badge/-Lean%20Tools-2E8B57)
-![DOE](https://img.shields.io/badge/-Design%20of%20Experiments-8A2BE2)
-![ANOVA](https://img.shields.io/badge/-ANOVA%20%26%20Regression-D2691E)
+<p align="center">
+  <a href="mailto:janaalshaie@gmail.com"><img src="https://img.shields.io/badge/Email-janaalshaie%40gmail.com-1F3A5F?style=flat-square" alt="Email"></a>
+</p>
 
 ---
 
-## 📁 Selected Projects
+## Profile
 
-### 1️⃣ Supply Chain Network Optimization — East Africa Bottling
-**Methods:** Mixed-Integer Linear Programming (MILP) · IBM ILOG CPLEX
-
-Analyzed a supply chain network optimization model to evaluate alternative network configurations and identify a cost-effective distribution strategy under the model's constraints.
-
-- Reviewed the network model and its cost-related outputs
-- Compared alternative configurations by total modeled cost
-- Examined the results to identify the lowest-cost solution
-
-**🏆 Key result:** USD 46.67 million — lowest-cost model solution
+Industrial & Systems Engineering student seeking a cooperative training opportunity to apply analytical and quantitative skills to real-world engineering and operational challenges. Academic project experience spans supply chain network optimization, experimental design, process analysis, and operations research, with a structured approach to problem-solving, process improvement, and data-driven decision-making.
 
 ---
 
-### 2️⃣ Industrial Process & Safety Improvement — UTEC
-**Methods:** Process Mapping · Lean Tools · Root Cause Analysis
+## Core Competencies
 
-Examined an industrial production workflow to identify operational inefficiencies, sources of waste, and safety concerns.
-
-- Mapped the sequence of activities and material flow
-- Applied Lean tools to investigate inefficiencies and waste
-- Used root cause analysis to explore underlying issues and inform recommendations
-
-**🏆 Key outcome:** A proposed improvement plan addressing process inefficiencies and safety concerns
+| | | |
+|---|---|---|
+| Supply Chain & Logistics | Process Improvement | Quality Management |
+| Operations Management | Data Analysis | Project Management |
 
 ---
 
-### 3️⃣ Design of Experiments — Drone Manufacturing
-**Methods:** R · DOE · 2² Factorial Design · ANOVA · Regression
+## Technical Toolkit
 
-Investigated how battery capacity and drone weight relate to flight time, using experimental design to support data-driven decisions in drone manufacturing.
-
-- Designed a 2² factorial experiment with battery capacity and drone weight as factors
-- Structured the study to examine individual effects and their potential interaction
-- Built a framework for statistical analysis of the factors' relationship with flight time
-
-**🏆 Key outcome:** A structured factorial design providing a basis for subsequent statistical analysis
-
----
-
-## 🎯 Focus Areas
-
-`Supply Chain Optimization` · `Cost Analysis` · `Root Cause Analysis` · `Continuous Improvement` · `Experimental Design` · `Data-Driven Decision-Making`
+| Area | Tools & Methods |
+|---|---|
+| Optimization | Mixed-Integer Linear Programming (MILP), IBM ILOG CPLEX |
+| Data Analysis & Statistics | R, ANOVA, Regression, Machine Learning (Basic) |
+| Simulation | Arena Simulation (Familiar) |
+| Process Improvement & Quality | Process Mapping, Lean Tools, Six Sigma, Root Cause Analysis |
+| Operations Research | Queuing Theory |
+| Software | Microsoft Office |
 
 ---
 
-## 📫 Let's Connect
+## Selected Projects
 
-- 💼 LinkedIn: [YOUR_LINKEDIN_URL]
-- 📧 Email: [YOUR_EMAIL]
+| Project | Focus | Methods | Outcome |
+|---|---|---|---|
+| East Africa Bottling | Supply Chain Network Optimization | MILP, IBM ILOG CPLEX | Lowest-cost model solution of USD 46.67 million |
+| UTEC | Industrial Process & Safety Improvement | Process Mapping, Lean Tools, Root Cause Analysis | Proposed improvement plan for efficiency and safety |
+| Drone Manufacturing | Design of Experiments | 2² Factorial Design, R, ANOVA, Regression | Experimental design linking battery capacity and drone weight to flight time |
+| Hai Cafe | Operations Research | Queuing Theory | Staffing and scheduling recommendations |
+
+### Supply Chain Network Optimization | East Africa Bottling
+
+- Analyzed optimization model outputs (MILP, IBM ILOG CPLEX) and compared network costs to evaluate alternative supply chain configurations.
+- Identified a cost-effective distribution strategy, with a lowest-cost model solution of **USD 46.67 million** under the modeled constraints.
+
+### Industrial Process & Safety Improvement | UTEC
+
+- Applied process mapping, Lean tools, and root cause analysis to identify workflow inefficiencies, sources of waste, and safety concerns.
+- Developed a proposed improvement plan to support more efficient and safer operations.
+
+### Design of Experiments | Drone Manufacturing Optimization
+
+- Designed a 2² factorial experiment using battery capacity and drone weight as factors to investigate their effects on flight time.
+- Structured the experiment to examine individual factor effects and their interaction, supporting subsequent statistical analysis (R, ANOVA, regression).
+
+### Operations Research Analysis | Hai Cafe
+
+- Analyzed customer flow and service bottlenecks using queuing theory and operations research techniques.
+- Developed staffing and scheduling recommendations to improve resource utilization and service flow.
+
+---
+
+## Education
+
+**Bachelor of Science in Industrial & Systems Engineering**
+Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia
+Expected June 2027
+
+---
+
+## Certifications & Professional Development
+
+- McKinsey.org Forward (In Progress)
+- Google Project Management Certificate, Coursera
+- Six Sigma Green Belt, Coursera
+- Lean Management Certificate, Coursera
+- Al-Raed Program, AlFozan Academy, KFUPM
+
+---
+
+## Leadership & Activities
+
+- **Volunteer, Event Operations** | Saudi Expo, Symbios Consulting Group: supported event coordination and operational activities while collaborating with multiple stakeholders in a fast-paced environment.
+- **Graduation Ceremony Speaker:** selected to represent graduating students and deliver a formal speech to a large audience.
+
+---
+
+## Contact
+
+Email: [janaalshaie@gmail.com](mailto:janaalshaie@gmail.com)
+
+<!-- Add your LinkedIn here, for example: LinkedIn: [linkedin.com/in/your-name](https://linkedin.com/in/your-name) -->
+
